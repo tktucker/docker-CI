@@ -9,6 +9,7 @@
   "dependencies": {
     "express": "latest",
     "pug": "latest",
+    "jest": "latest",
     "mocha": "latest",
     "supertest": "latest"
   }
