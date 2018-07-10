@@ -12,8 +12,8 @@
     "jest": "latest",
     "mocha": "latest",
     "supertest": "latest"
-  }
+  },
   "scripts": {
       "test": "mocha"
-        },
+  }
 }
